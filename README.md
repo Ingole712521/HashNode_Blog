@@ -1,4 +1,4 @@
-# Hashnode Blog Repository
+# 🚀 Hashnode Blog Repository
 
 Welcome to my Hashnode Blog Repository! 📝✨
 
@@ -34,5 +34,9 @@ Browse through the repository to explore a variety of topics, including:
 - Follow me on [Hashnode](https://hashnode.com/@Nehal71) for the latest updates and new blog posts.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nehal-ingole) to stay in touch and discuss tech trends.
 - Watch out for announcements on [Twitter](https://twitter.com/IngoleNehal) regarding upcoming blog posts and tech insights.
+
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-%23yourbadgecolor?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@Nehal71)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nehal-ingole)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/IngoleNehal)
 
 Thank you for visiting my Hashnode Blog Repository! Let's continue to learn, grow, and inspire each other through the power of knowledge sharing. 🌟
