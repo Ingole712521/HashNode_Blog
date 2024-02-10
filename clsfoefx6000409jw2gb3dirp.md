@@ -4,6 +4,7 @@ seoTitle: "Cheat Sheet of Docker and Kubernetes"
 datePublished: Sat Feb 10 2024 06:08:48 GMT+0000 (Coordinated Universal Time)
 cuid: clsfoefx6000409jw2gb3dirp
 slug: cheat-sheet-of-docker-and-kubernetes
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707545386792/99e07486-d7a1-4199-8439-c695ff44abba.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1707545265977/95ae183c-29c0-4bc1-b2cd-f00d804335b7.png
 tags: docker, kubernetes, hashnode, cheatsheet, public-speaking, docker-compose, learning-journey, kubernetes-container, docker-network, kubernetes-persistent-volumes
 
