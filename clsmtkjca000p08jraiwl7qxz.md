@@ -1,0 +1,81 @@
+---
+title: "Day 1 of React Learning"
+datePublished: Thu Feb 15 2024 06:07:54 GMT+0000 (Coordinated Universal Time)
+cuid: clsmtkjca000p08jraiwl7qxz
+slug: day-1-of-react-learning
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707977085558/be73fae8-fa89-495c-a49d-d73adfaa389e.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1707977266642/a9023350-54f6-4e94-82a6-6ee986e3c601.jpeg
+tags: react-router, reactjs, devops, 2articles1week, reacthooks, learning-journey, learning-in-public
+
+---
+
+## **Introduction to React**
+
+React is a popular JavaScript library used for building user interfaces, particularly for single-page applications (SPAs) where dynamic content is a key component. Developed and maintained by Facebook, React has gained widespread adoption due to its efficiency, flexibility, and component-based architecture.
+
+At its core, React employs a declarative approach to building UI components. Instead of directly manipulating the DOM (Document Object Model) like traditional JavaScript frameworks, React provides a virtual DOM, a lightweight representation of the actual DOM. This virtual DOM allows React to efficiently update and render UI components by selectively updating only the parts of the DOM that have changed, rather than re-rendering the entire UI.
+
+One of the key concepts in React is the component. Components are self-contained, reusable building blocks that encapsulate a piece of UI and its behavior. This modular approach promotes code reusability, maintainability, and scalability. React components can be simple, representing a button or input field, or complex, representing an entire page or application.
+
+Another important feature of React is its use of JSX (JavaScript XML), an extension to JavaScript that allows developers to write HTML-like syntax within their JavaScript code. JSX makes it easier to define UI components and enables a more intuitive development experience.
+
+React also emphasizes a unidirectional data flow, where data flows downwards from parent components to child components via props (short for properties). This data flow pattern ensures that changes to the application state are predictable and easy to manage.
+
+In addition to these core features, React ecosystem includes tools and libraries such as React Router for handling client-side routing, Redux for state management, and React Native for building mobile applications using React.
+
+Overall, React provides developers with a powerful and efficient toolkit for building modern, interactive user interfaces, making it a popular choice for frontend development projects.
+
+## Architecture of react js
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707752346943/f7222cf5-592d-4ac6-ad18-40a8c4b9f5c5.png align="center")
+
+### **Components**
+
+* **Presentation Components:** These components handle the UI rendering and styling. They don't have their own state and receive data (props) from container components. In the image, the "UI" block represents these components.
+    
+* **Container Components:** These components manage the application's state and logic. They connect to Redux to access and update the global state, and pass down props to presentation components. The "Component" block in the image refers to container components.
+    
+
+### **Data Flow**
+
+1. **User Interaction:** When a user interacts with the UI (e.g., clicks a button), a UI event is dispatched.
+    
+2. **Action Creators:** These functions create action objects that describe the changes to be made to the state. They don't directly modify the state; instead, they dispatch actions to Redux.
+    
+3. **Reducers:** These pure functions receive the current state and an action object, and return a new state based on the logic defined in the reducer. In the image, the "Reducers" block represents these functions.
+    
+4. **Store:** This is the single source of truth for the application's state. It holds the global state object and provides methods to get and update it. The "Store" block in the image represents this.
+    
+5. **State Update:** Redux updates the store with the new state returned by the reducer.
+    
+6. **Component Re-render:** Components that are subscribed to changes in the store (using the `mapStateToProps` function from Redux) are notified and re-rendered with the updated data.
+    
+
+### **Additional Components**
+
+* **Server Events:** If your application fetches data from a server, the server can dispatch actions to update the state as well. The "SERVER EVENTS" block in the image refers to this.
+    
+* **Routing:** This part is not explicitly shown in the image, but routing libraries like React Router are often used to manage navigation between different views in a React application.
+    
+
+### **Benefits of this Architecture**
+
+* **Separation of Concerns:** Components are responsible for their own UI and don't need to worry about state management, making the code more modular and maintainable.
+    
+* **Predictable State Updates:** Redux enforces unidirectional data flow, making it easier to reason about how state changes will affect the UI.
+    
+* **Global State Management:** Redux provides a centralized store for managing global application state, which can be helpful for complex applications.
+    
+
+### React Architecture in a Nutshell
+
+* Components rule: Build your UI with modular, reusable pieces.
+    
+* Flow matters: Data flows from parent to child, keeping state predictable.
+    
+* Redux steps in: Manage complex state globally for larger applications.
+    
+* Enjoy the benefits: Maintainable, organized, and scalable React apps await!
+    
+
+Now go forth and build incredible web experiences!
