@@ -123,7 +123,7 @@ export default App;
 
 In this updated example, we've created a `ThemeProvider` component that wraps the entire application. It manages the theme state using `useState` hook and syncs it with local storage using `useEffect`. The `toggleTheme` function allows toggling between light and dark themes, updating both state and local storage accordingly.
 
-### Conclusion
+## Conclusion
 
 React Context API provides a powerful mechanism for managing global state in React applications, reducing the need for prop drilling and making state management more intuitive. By integrating local storage, we can further enhance the capabilities of Context API, enabling seamless persistence of state across page reloads and enhancing the user experience. With this newfound knowledge, you're well-equipped to leverage React Context API and local storage in your projects to build more robust and user-friendly applications.
 
