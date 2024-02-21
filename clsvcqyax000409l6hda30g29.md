@@ -10,7 +10,7 @@ tags: javascript, react-native, reactjs, context-api, reacthooks, learn-in-publi
 
 ---
 
-## Introduction
+## **Introduction**
 
 In the realm of React development, managing state across components efficiently is crucial for building scalable and maintainable applications. While props drilling and state lifting have been traditional solutions, React Context API offers a more elegant and streamlined approach to sharing state across components without the need for prop drilling.
 
