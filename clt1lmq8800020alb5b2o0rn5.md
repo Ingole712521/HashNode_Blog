@@ -69,7 +69,7 @@ In the above example, we've created an `App` component that renders the `Counter
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708870604066/a61d3af3-f770-4430-b71b-9a73a3fdf9b8.png align="center")
 
-### Conclusion
+## Conclusion
 
 Understanding hooks like `useState` is crucial for building powerful and dynamic React applications. By leveraging hooks, you can simplify your code, improve its readability, and enhance the overall developer experience.
 
