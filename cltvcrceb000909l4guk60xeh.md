@@ -12,7 +12,7 @@ tags: docker, aws, continuous-integration, git, cloud-computing, terraform, jenk
 
 **In this blog we are going to automate installation of Jenkins and launching ec2-instance with the help of terraform**
 
-## **Introduction**
+## Introduction
 
 In today's fast-paced software development environment, streamlining CI/CD pipelines is crucial for delivering high-quality software efficiently. This blog post will explore how to leverage AWS, Jenkins, Docker, Git, and Terraform to achieve this goal.
 
