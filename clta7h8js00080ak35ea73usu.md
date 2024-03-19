@@ -4,7 +4,7 @@ datePublished: Sat Mar 02 2024 14:55:57 GMT+0000 (Coordinated Universal Time)
 cuid: clta7h8js00080ak35ea73usu
 slug: serverless-computing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709391293612/92d1efd6-5238-494b-aec2-be9a4801eba7.png
-tags: aws, cloud-computing, devops, serverless, gcp, serverless-computing
+tags: aws, cloud-computing, devops, serverless, gcp, 2articles1week, serverless-computing
 
 ---
 
