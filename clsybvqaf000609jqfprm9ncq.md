@@ -6,7 +6,7 @@ cuid: clsybvqaf000609jqfprm9ncq
 slug: building-an-authentication-service-with-appwrite
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708672783555/be8adc14-d157-475f-b885-0cb81f7d9378.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708673129603/62140392-f4fc-418e-963c-d572de997240.webp
-tags: projects, reactjs, appwrite, learn-in-public, react-project, appwritehackathon
+tags: projects, reactjs, 2articles1week, appwrite, learn-in-public, react-project, appwritehackathon
 
 ---
 
