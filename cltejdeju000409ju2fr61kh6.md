@@ -6,7 +6,7 @@ cuid: cltejdeju000409ju2fr61kh6
 slug: handling-urls-in-nodejs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709653096935/32374314-ae28-4fa7-b345-21157052819c.avif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709653161052/c61cf14c-4484-428d-837b-78626e23f298.avif
-tags: javascript, nodejs, reactjs, url, learning-journey, learning-in-public, parsing-url
+tags: javascript, nodejs, reactjs, url, 2articles1week, learning-journey, learning-in-public, parsing-url
 
 ---
 
