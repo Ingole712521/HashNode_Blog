@@ -6,7 +6,7 @@ cuid: clsuhp8fp000208lbb73q4byn
 slug: day-4-of-react-mastery
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708440645033/16d8ee4e-a1ed-4b98-952a-c582d26bb662.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708440949174/f57156fd-f55f-4d1f-ab7e-80fd8ebf38ea.png
-tags: javascript, router, reactjs, typescript, state-management, reacthooks, react-usestate-state-management-hooks-components-javascript-front-end-development-web-development-code-examples-step-by-step-guide-user-interfaces-programming-tutorial-web-development-tutorial-javascript-development-react-development-reactjs-state-hook-state-management-in-react-frontend-development, mastery, functional-components, react-component-state
+tags: javascript, router, reactjs, typescript, state-management, 2articles1week, reacthooks, react-usestate-state-management-hooks-components-javascript-front-end-development-web-development-code-examples-step-by-step-guide-user-interfaces-programming-tutorial-web-development-tutorial-javascript-development-react-development-reactjs-state-hook-state-management-in-react-frontend-development, mastery, functional-components, react-component-state
 
 ---
 
