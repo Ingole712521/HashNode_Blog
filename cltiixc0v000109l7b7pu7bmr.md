@@ -1,12 +1,12 @@
 ---
 title: "Building rest API"
-seoTitle: "Building rest API "
+seoTitle: "Building rest API"
 datePublished: Fri Mar 08 2024 10:38:33 GMT+0000 (Coordinated Universal Time)
 cuid: cltiixc0v000109l7b7pu7bmr
 slug: building-rest-api
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709893942597/14d73a3b-7c86-4230-b13d-487e3ede5fd9.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709894297958/36e74700-4430-4e7a-a05b-75bdb6914b7b.png
-tags: apis, reactjs, delete, learning-journey, data-access, learninpublic, building-rest-api, patch-request
+tags: apis, reactjs, delete, 2articles1week, learning-journey, data-access, learninpublic, building-rest-api, patch-request
 
 ---
 
