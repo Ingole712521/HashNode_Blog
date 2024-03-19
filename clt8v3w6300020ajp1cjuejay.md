@@ -6,7 +6,7 @@ cuid: clt8v3w6300020ajp1cjuejay
 slug: understanding-npm
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709309973491/8c911227-7a48-4dcd-a994-cf2a591081fa.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709310027035/12e1feea-782b-4e7d-841d-aa4962772c8c.jpeg
-tags: uber, linux, javascript, microsoft, facebook, npm, react-js, reactjs, google, learn-in-public, npm-publish
+tags: uber, linux, javascript, microsoft, facebook, npm, react-js, reactjs, google, 2articles1week, learn-in-public, npm-publish
 
 ---
 
