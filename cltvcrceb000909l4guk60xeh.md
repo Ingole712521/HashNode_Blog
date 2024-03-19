@@ -6,7 +6,7 @@ cuid: cltvcrceb000909l4guk60xeh
 slug: streamlining-continuous-integration-and-deployment-with-aws-jenkins-docker-git-and-terraform
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710669459102/319862e8-1366-44bb-8695-66faa00ce9cc.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710669768703/6a513019-b27f-43be-85e6-fb2e4c1daabe.jpeg
-tags: docker, aws, continuous-integration, git, cloud-computing, terraform, jenkins, dockerfile, learning-journey, terraform-cloud, docker-network, learn-in-public, jenkins-pipeline
+tags: docker, aws, continuous-integration, git, cloud-computing, terraform, jenkins, dockerfile, 2articles1week, learning-journey, terraform-cloud, docker-network, learn-in-public, jenkins-pipeline
 
 ---
 
