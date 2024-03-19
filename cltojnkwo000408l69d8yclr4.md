@@ -1,12 +1,12 @@
 ---
 title: "Jenkins Firewall"
-seoTitle: "Jenkins Firewall "
+seoTitle: "Jenkins Firewall"
 datePublished: Tue Mar 12 2024 15:45:34 GMT+0000 (Coordinated Universal Time)
 cuid: cltojnkwo000408l69d8yclr4
 slug: jenkins-firewall
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710258033916/1a2bbf24-7a6f-4d01-bc4b-98fd2cdb52fe.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710258317169/55fd4046-a034-43a2-a4cc-675c05f79831.jpeg
-tags: accessibility, devops, jenkins, firewall, cicd, ci-cd, learning-journey, learn-in-public, jenkins-port-change
+tags: accessibility, devops, jenkins, firewall, cicd, 2articles1week, ci-cd, learning-journey, learn-in-public, jenkins-port-change
 
 ---
 
