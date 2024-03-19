@@ -6,7 +6,7 @@ cuid: cltlofv5g000409jp9wky7noa
 slug: generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710075219601/b2562edb-97f4-40d6-8806-e398aa6cf385.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710084423080/33f53d5b-01cc-44f0-bd08-5834dad2563a.jpeg
-tags: ubuntu, linux, github, programming, git, ssh-keys, ssh-agent, secure-shell
+tags: ubuntu, linux, github, programming, git, 2articles1week, ssh-keys, ssh-agent, secure-shell
 
 ---
 
