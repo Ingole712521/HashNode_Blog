@@ -6,7 +6,7 @@ cuid: cltx0lyyz000109jqcbky6qci
 slug: cyber-security-and-confusion-matrix
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710770200572/b4242b70-7867-43af-b2a5-3662c8d07f25.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710770526366/c24614f4-f8f8-4442-9f49-e2e6a0e0a762.jpeg
-tags: cybersecurity, prediction, cybersecurity-1, learning-journey, learning-in-public, cyberattack, confusion-matrix, parallel, falsenegative
+tags: cybersecurity, prediction, 2articles1week, cybersecurity-1, learning-journey, learning-in-public, cyberattack, confusion-matrix, parallel, falsenegative
 
 ---
 
