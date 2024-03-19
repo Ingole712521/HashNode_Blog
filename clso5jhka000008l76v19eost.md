@@ -5,7 +5,7 @@ cuid: clso5jhka000008l76v19eost
 slug: mastering-figma
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708008895859/fcf4c8fd-00c8-4e5d-bcfb-3d78b69c6663.avif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708008915126/081c2cb4-9b3f-402d-95b8-dd8e8d1f7e18.avif
-tags: devops, figma, ui-ux-designer, figma-to-code
+tags: devops, figma, 2articles1week, ui-ux-designer, figma-to-code
 
 ---
 
