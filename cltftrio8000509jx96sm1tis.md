@@ -6,7 +6,7 @@ cuid: cltftrio8000509jx96sm1tis
 slug: http-methods
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709730342202/16005d6f-3df3-4cac-95ba-9e0a2cb35457.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709731076314/1155eedf-f8cd-4318-b0cf-f7fa0fdaab7d.avif
-tags: postman, twitter, nodejs, youtube, http-method, put-method, get-and-post, delete-method
+tags: postman, twitter, nodejs, youtube, 2articles1week, http-method, put-method, get-and-post, delete-method
 
 ---
 
