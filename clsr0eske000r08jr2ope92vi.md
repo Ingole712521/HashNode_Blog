@@ -5,7 +5,7 @@ cuid: clsr0eske000r08jr2ope92vi
 slug: mastering-figma-design
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708187070528/a46b5a2d-77fb-4150-b396-8bb1cb7d0b5f.avif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708187250673/1a3cb04a-a267-4f16-8a0c-ea6e80a0f1a0.avif
-tags: job-hunting, figma, learn-in-public, looking-for-job
+tags: job-hunting, figma, 2articles1week, learn-in-public, looking-for-job
 
 ---
 
