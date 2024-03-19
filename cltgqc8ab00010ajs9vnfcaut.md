@@ -6,7 +6,7 @@ cuid: cltgqc8ab00010ajs9vnfcaut
 slug: version-control-in-nodejs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709748422829/f940eab7-37d9-4588-9527-f5f8339e8be7.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709748242773/8a356fa5-6333-478a-9a79-8fdf2131e630.png
-tags: javascript, nodejs, reactjs, semantic-versioning, learning-journey, learn-in-public, date-based-versioning, feature-based-versioning
+tags: javascript, nodejs, reactjs, 2articles1week, semantic-versioning, learning-journey, learn-in-public, date-based-versioning, feature-based-versioning
 
 ---
 
