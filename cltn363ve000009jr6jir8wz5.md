@@ -6,7 +6,7 @@ cuid: cltn363ve000009jr6jir8wz5
 slug: cheatsheet-of-github
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710169929127/4fd95074-554a-49b2-aef3-0567e23c80a9.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710170168932/8b20af06-fd7f-4d40-abf1-8d9c614f0963.jpeg
-tags: github, githubpages, github-actions-1, learning-journey, learning-in-public, github-copilot
+tags: github, githubpages, 2articles1week, github-actions-1, learning-journey, learning-in-public, github-copilot
 
 ---
 
