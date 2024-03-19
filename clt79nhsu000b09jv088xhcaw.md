@@ -5,7 +5,7 @@ cuid: clt79nhsu000b09jv088xhcaw
 slug: unveiling-openziti-and-zrok
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709213134927/28c2c3fb-41ae-4080-9c1b-44501b7cba11.avif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709213599687/9b4479ed-a555-4a9a-b7ff-fe9a93fdddcc.avif
-tags: express, javascript, expressjs, openziti, learning-in-public, learninpublic, zrok
+tags: express, javascript, expressjs, 2articles1week, openziti, learning-in-public, learninpublic, zrok
 
 ---
 
