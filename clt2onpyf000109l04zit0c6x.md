@@ -4,7 +4,7 @@ datePublished: Mon Feb 26 2024 08:34:43 GMT+0000 (Coordinated Universal Time)
 cuid: clt2onpyf000109l04zit0c6x
 slug: understanding-the-basics-of-nodejs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708936266028/c183fe33-6965-4ac7-8f97-0454904852b3.jpeg
-tags: javascript, nodejs, learn-in-public, learninpublic
+tags: javascript, nodejs, 2articles1week, learn-in-public, learninpublic
 
 ---
 
