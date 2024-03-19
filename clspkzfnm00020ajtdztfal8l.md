@@ -1,13 +1,13 @@
 ---
 title: "Second day of delving into React"
 seoTitle: "Second day of delving into React"
-seoDescription: "I delved into the concept of "State and Props" "
+seoDescription: "I delved into the concept of "State and Props""
 datePublished: Sat Feb 17 2024 04:30:51 GMT+0000 (Coordinated Universal Time)
 cuid: clspkzfnm00020ajtdztfal8l
 slug: second-day-of-delving-into-react
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708070532070/2a89ec7c-fd76-4fd3-b40b-91d71c146d52.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708070969202/0a074a90-5863-4625-9f54-9bfcbc78dfd5.jpeg
-tags: javascript, web-development, reactjs, devops, hashnode, devcommunity, learning-journey, learning-in-public
+tags: javascript, web-development, reactjs, devops, hashnode, 2articles1week, devcommunity, learning-journey, learning-in-public
 
 ---
 
