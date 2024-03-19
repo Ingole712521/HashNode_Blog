@@ -5,7 +5,7 @@ cuid: clt5cyt6g000308jwexatbnff
 slug: demystifying-ngrok
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709057672779/da3d9820-017d-4241-acbe-89d6e47b2849.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709057887931/a638c5ec-b016-4b03-860b-9b92009c651c.webp
-tags: ngrok, linux, reactjs, devops, coding-challenge, learning-journey, devops-articles, learn-in-public, devopscommunity
+tags: ngrok, linux, reactjs, devops, 2articles1week, coding-challenge, learning-journey, devops-articles, learn-in-public, devopscommunity
 
 ---
 
