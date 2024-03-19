@@ -6,7 +6,7 @@ cuid: cltsy5abb000c09js6xr3gq8k
 slug: an-in-depth-exploration-of-how-the-internet-works
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710524366583/3979934a-44b4-4ffc-a7a6-11fceadd5c91.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710524487302/c8d2018f-fed2-43be-8c68-49df7ab16a09.png
-tags: cdn, security, internet, standards, internet-of-things, connection, protocols, isps
+tags: cdn, security, internet, standards, internet-of-things, connection, 2articles1week, protocols, isps
 
 ---
 
