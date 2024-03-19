@@ -6,7 +6,7 @@ cuid: clst2z9cn000108jf08ab8kfs
 slug: day-3-of-react-mastery
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708355650354/bfdfba55-5e01-406c-b3a8-98032b2353af.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708355761016/dc7855ad-c3f9-4785-9840-a9b4fd86b5af.png
-tags: react, reactjs, learntocode, reacthooks, learning-journey, learning-in-public, usestate-hook, useeffect-hook, conditionalrendering, react-jsx, codingcommunity
+tags: react, reactjs, learntocode, 2articles1week, reacthooks, learning-journey, learning-in-public, usestate-hook, useeffect-hook, conditionalrendering, react-jsx, codingcommunity
 
 ---
 
