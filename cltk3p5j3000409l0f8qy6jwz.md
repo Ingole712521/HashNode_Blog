@@ -6,7 +6,7 @@ cuid: cltk3p5j3000409l0f8qy6jwz
 slug: middleware-in-nodejs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709989573665/211adc11-23f4-405f-b83c-d622e89887bd.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709989649244/eeae2a09-d074-452f-b801-28e96bab37c4.png
-tags: nodejs, apis, middleware, requests, learning-journey, learn-in-public, learningjavascript, response
+tags: nodejs, apis, middleware, requests, 2articles1week, learning-journey, learn-in-public, learningjavascript, response
 
 ---
 
