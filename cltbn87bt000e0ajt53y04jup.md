@@ -1,12 +1,12 @@
 ---
 title: "ArgoCD on Minikube Kubernetes Cluster"
-seoTitle: "ArgoCD on Minikube Kubernetes Cluster "
+seoTitle: "ArgoCD on Minikube Kubernetes Cluster"
 datePublished: Sun Mar 03 2024 15:04:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltbn87bt000e0ajt53y04jup
 slug: argocd-on-minikube-kubernetes-cluster
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709478014625/4bb5ba60-d638-4835-b013-69be096343d3.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709478177778/2b6c10e9-9df8-45d3-8de9-5c1c7276c2a4.png
-tags: linux, kubernetes, minikube, kubernetes-container, argocd, minikube-setup, argocd-deploy-applicationn
+tags: linux, kubernetes, 2articles1week, minikube, kubernetes-container, argocd, minikube-setup, argocd-deploy-applicationn
 
 ---
 
