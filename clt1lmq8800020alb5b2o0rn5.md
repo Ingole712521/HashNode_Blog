@@ -5,7 +5,7 @@ cuid: clt1lmq8800020alb5b2o0rn5
 slug: hooks-react
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708870837097/79f45d73-a6e3-4e99-99f4-cd82fc0c3d9e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708870890762/2a902531-946a-40fe-b6ec-a14f502a7522.jpeg
-tags: web-development, reactjs, coding, hooks, coding-challenge, coding-journey, learn-in-public
+tags: web-development, reactjs, coding, hooks, 2articles1week, coding-challenge, coding-journey, learn-in-public
 
 ---
 
