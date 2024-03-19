@@ -4,7 +4,7 @@ datePublished: Tue Feb 27 2024 05:34:19 GMT+0000 (Coordinated Universal Time)
 cuid: clt3xnkiu000808l89hdx0thv
 slug: day2-of-learning-nodejs
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709012014701/0ba08b8d-6537-43e7-b4a3-7139abd52f59.png
-tags: nodejs, architecture, reactjs, nodejs-developer, learning-journey, learning-in-public
+tags: nodejs, architecture, reactjs, nodejs-developer, 2articles1week, learning-journey, learning-in-public
 
 ---
 
