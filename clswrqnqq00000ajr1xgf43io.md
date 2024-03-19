@@ -5,7 +5,7 @@ cuid: clswrqnqq00000ajr1xgf43io
 slug: mastering-ui-flexibility
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708578523836/1103c9a7-4572-44ac-8985-d60314beb6df.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708578643258/d8f2194e-626f-480c-ad33-dbd11e3c5ff0.webp
-tags: props, tailwind-css, tailwind-css-tutorial, learning-in-public, props-in-reactjs
+tags: 2articles1week, props, tailwind-css, tailwind-css-tutorial, learning-in-public, props-in-reactjs
 
 ---
 
