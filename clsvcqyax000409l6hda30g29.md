@@ -6,7 +6,7 @@ cuid: clsvcqyax000409l6hda30g29
 slug: day-5-pf-mastering-react-context-api
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708492263885/578c62dc-f1c7-49c8-80e2-abbd73d5e815.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708493154327/5dc68c25-9cc8-4b2c-abe8-80692541db7b.png
-tags: javascript, react-native, reactjs, context-api, reacthooks, learn-in-public
+tags: javascript, react-native, reactjs, context-api, 2articles1week, reacthooks, learn-in-public
 
 ---
 
