@@ -1,6 +1,6 @@
 ---
 title: "Day-2  Terraform provisioner"
-seoTitle: "Day-2 Terraform provisioner "
+seoTitle: "Day-2 Terraform provisioner"
 datePublished: Mon Apr 15 2024 08:50:58 GMT+0000 (Coordinated Universal Time)
 cuid: clv0ptd4e000o08l26nrre21l
 slug: day-2-terraform-provisioner
@@ -13,6 +13,8 @@ tags: aws, terraform, learning-in-public, terraform-state, terraform-cloud, cicd
 In Day-2 of Learning terraform from zero to expert we are going to see how the provisioner work and some practical implementation in it.
 
 Let's break down the Terraform configuration provided and explain each part step by step
+
+Github :- [https://github.com/Ingole712521/terraform-aws-learning.git](https://github.com/Ingole712521/terraform-aws-learning.git)
 
 ---
 
