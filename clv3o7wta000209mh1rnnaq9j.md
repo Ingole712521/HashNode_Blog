@@ -1,7 +1,7 @@
 ---
 title: "Build Run and Deploy Docker image with Terraform"
 seoTitle: "Build Run and Deploy Docker image with Terraform"
-seoDescription: "In this blog we are going to look about docker and terraform how your can deploy docker server and also upload your docker images on your own docker hub "
+seoDescription: "In this blog we are going to look about docker and terraform how your can deploy docker server and also upload your docker images on your own docker hub"
 datePublished: Wed Apr 17 2024 10:29:36 GMT+0000 (Coordinated Universal Time)
 cuid: clv3o7wta000209mh1rnnaq9j
 slug: build-run-and-deploy-docker-image-with-terraform
@@ -298,6 +298,8 @@ Docker image uploaded
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713341687410/b7039b6e-da5c-4b00-83cd-5a3a6771b31d.png align="center")
 
 ## Video
+
+%[https://youtu.be/kI6xPot3bys] 
 
 ## **Conclusion:**
 
