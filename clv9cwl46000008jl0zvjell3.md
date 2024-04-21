@@ -13,6 +13,8 @@ tags: docker, terraform, dockerfile, docker-images, learning-journey, learning-i
 
 In today’s rapidly evolving technological landscape, the ability to quickly deploy and manage infrastructure is crucial. Infrastructure as Code (IaC) tools like Terraform allow developers and system administrators to automate the provisioning and configuration of cloud resources, enabling more efficient and consistent deployments. In this blog post, we’ll explore how to use Terraform to deploy a Docker environment on Google Cloud Platform (GCP).
 
+Code file :- [https://github.com/Ingole712521/Terraform\_Expert/tree/main/Day\_8\_GCP](https://github.com/Ingole712521/Terraform_Expert/tree/main/Day_8_GCP)
+
 ---
 
 ## Explanation
@@ -138,6 +140,8 @@ Final Result :-
 
 ## Video
 
+%[https://youtu.be/ViDbRiR3ajI?si=IEzAmkjTDzlUNg0K] 
+
 ## Conclusion
 
 Terraform simplifies the deployment of Docker environments on Google Cloud Platform (GCP), offering efficiency and consistency. This tutorial has walked through the Terraform configuration, showcasing how it orchestrates the provisioning of GCP resources. Additionally, a video demonstration accompanies this guide, providing a visual walkthrough of the deployment process. By leveraging Terraform and GCP, developers can automate infrastructure management, focusing more on building and deploying applications. Happy deploying!
@@ -149,3 +153,5 @@ Terraform simplifies the deployment of Docker environments on Google Cloud Platf
 * Twitter : [https://twitter.com/IngoleNehal](https://twitter.com/IngoleNehal)
     
 * LinkedIn: [https://www.linkedin.com/in/nehal-ingole/](https://www.linkedin.com/in/nehal-ingole/)
+    
+* GitHub :- [https://github.com/Ingole712521](https://github.com/Ingole712521)
