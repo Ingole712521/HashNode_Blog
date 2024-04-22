@@ -18,7 +18,7 @@ Amazon Elastic Kubernetes Service (EKS) is a managed Kubernetes service provided
 
 Terraform enables you to define and provision infrastructure using a declarative configuration language. It's particularly well-suited for managing cloud resources like those on AWS, as it allows you to codify your infrastructure requirements and manage them efficiently.
 
-## Prerequisites:
+## Prerequisites
 
 1. An AWS account.
     
