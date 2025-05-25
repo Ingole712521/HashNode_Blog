@@ -79,6 +79,8 @@ http_requests_total{method="GET", path="/", status="200"} 12
 * **Reliability:** Each Prometheus server is standalone, making it resilient during outages of other infrastructure components.
     
 
+---
+
 ### **Limitations of Prometheus (where Grafana complements it)**
 
 * **Basic Visualization:** While Prometheus has a built-in expression browser for ad-hoc querying and basic graphing, it's not a full-fledged dashboarding solution. It lacks customization, sharing, and advanced visualization types.
@@ -87,6 +89,8 @@ http_requests_total{method="GET", path="/", status="200"} 12
     
 * **Logs and Traces:** Prometheus is purely for metrics. It doesn't collect or analyze logs or traces directly (though it can work with systems like Loki for logs and Tempo for traces as part of the broader Grafana Labs stack).
     
+
+---
 
 ### **Prometheus Use Cases**
 
@@ -145,6 +149,8 @@ Grafana is an open-source **data visualization and analytics platform**. It does
     
 * **Sharing and Collaboration:** Easily share dashboards, set up user permissions, and create teams.
     
+
+---
 
 ### **Strengths of Grafana**
 
