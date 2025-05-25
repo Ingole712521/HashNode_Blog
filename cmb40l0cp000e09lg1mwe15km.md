@@ -130,7 +130,7 @@ Grafana is an open-source **data visualization and analytics platform**. It does
     
 * **Data Source**: Backend connection (e.g., Prometheus)
     
-* **Variables**: For dynamic dashboards
+* **Variables**: For dynamic dashboards  
     
 
 ### 🔧 Core Features
@@ -491,4 +491,4 @@ Happy monitoring! 🚀
     
 * LinkedIn: [https://www.linkedin.com/in/nehal-ingole/](https://www.linkedin.com/in/nehal-ingole/)
     
-* GitHub : [https://github.com/Ingole712521](https://github.com/Ingole712521)
+* Github :- [https://github.com/Ingole712521](https://github.com/Ingole712521)
