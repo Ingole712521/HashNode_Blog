@@ -172,16 +172,14 @@ export function isOnlyOneFingerUp(landmarks: NormalizedLandmarkList): boolean {
 
 This project is a great example of combining modern web technologies to create interactive, gesture-based experiences. By leveraging MediaPipe for hand tracking and keeping the code modular, you can build powerful and maintainable web apps.
 
-**Try it out, experiment with new gestures, or add your own creative twists!**
-
 ---
 
 ### Source Code
 
 Github Link:- [https://github.com/Ingole712521/HandTracking.git](https://github.com/Ingole712521/HandTracking.git)
 
-**Happy coding! If you have questions or want to see more features, let me know in the comments.**  
-  
+**Happy coding! If you have questions or want to see more features, let me know in the comments.**
+
 **Connect with us:**
 
 * Hashnode: [https://hashnode.com/@Nehal71](https://hashnode.com/@Nehal71)
