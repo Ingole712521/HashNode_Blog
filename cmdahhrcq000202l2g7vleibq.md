@@ -1,7 +1,7 @@
 ---
 title: "Building an Interactive Hand-Tracking Game with React, MediaPipe, and GSAP"
-seoTitle: "Building an Interactive Hand-Tracking Game "
-seoDescription: "The game displays a video feed from your webcam. Birds fly across the screen, and you “hit” them by showing a single raised finger (the “OK” gesture) "
+seoTitle: "Building an Interactive Hand-Tracking Game"
+seoDescription: "The game displays a video feed from your webcam. Birds fly across the screen, and you “hit” them by showing a single raised finger (the “OK” gesture)"
 datePublished: Sat Jul 19 2025 16:50:24 GMT+0000 (Coordinated Universal Time)
 cuid: cmdahhrcq000202l2g7vleibq
 slug: building-an-interactive-hand-tracking-game-with-react-mediapipe-and-gsap
