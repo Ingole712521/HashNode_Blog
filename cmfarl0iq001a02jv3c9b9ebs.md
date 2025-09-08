@@ -1,10 +1,10 @@
 ---
-title: "From Words to Magic: How ChatGPT Tokenization, Embeddings, and Transformers Understand Language"
+title: "How ChatGPT Tokenization, Embeddings, and Transformers Understand Language"
 seoTitle: "How ChatGPT Works: Tokenization, Embeddings, and Transformer Attention"
 seoDescription: "Discover how ChatGPT processes language step by step — from tokenization and embeddings to transformer attention."
 datePublished: Mon Sep 08 2025 06:52:16 GMT+0000 (Coordinated Universal Time)
 cuid: cmfarl0iq001a02jv3c9b9ebs
-slug: from-words-to-magic-how-chatgpt-tokenization-embeddings-and-transformers-understand-language
+slug: how-chatgpt-tokenization-embeddings-and-transformers-understand-language
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1757314286812/a90747c7-9c23-4992-a1f3-46e5273a4902.png
 tags: languages, devops, tokenization, learninpublic, chatgpt, words, embedding, transformers-in-llm, chatgptbrain
 
