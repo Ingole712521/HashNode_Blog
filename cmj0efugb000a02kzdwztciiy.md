@@ -1,13 +1,17 @@
 ---
-title: "From Simple QR Scans to Complex Bank Settlements - The Full Story"
-seoTitle: "From Simple QR Scans to Complex Bank Settlements - The Full Story"
+title: "UPI Architecture Explained: NPCI, Banks & Transaction Flow"
+seoTitle: "UPI Architecture Explained: NPCI, Banks & Transaction Flow"
 seoDescription: "From Simple QR Scans to Complex Bank Settlements - The Full Story"
 datePublished: Wed Dec 10 2025 19:25:28 GMT+0000 (Coordinated Universal Time)
 cuid: cmj0efugb000a02kzdwztciiy
-slug: from-simple-qr-scans-to-complex-bank-settlements-the-full-story
+slug: upi-architecture-explained-npci-banks-and-transaction-flow
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765394941793/d8d656ec-ed2c-4971-bdf3-c1b9f08fdca2.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765394718755/8cae50e8-aaf0-4dbe-a1e1-b85b22afa777.png
+tags: blog, flow, architecture, learning, learning-in-public
 
 ---
+
+## **From Simple QR Scans to Complex Bank Settlements - The Full Story**  
 
 **At a Glance:**
 
