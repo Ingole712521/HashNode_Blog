@@ -1,11 +1,11 @@
 ---
 title: "My Rust Learning Journey (From Basics to Traits & Generics)"
-seoTitle: "Rust Learning Journey Week 1 "
+seoTitle: "Rust Learning Journey Week 1"
 seoDescription: "Rust isn't really hard – it's just strict. Like that one teacher who had all those rules but actually made you a better student"
 datePublished: Sun Feb 15 2026 14:29:53 GMT+0000 (Coordinated Universal Time)
 cuid: cmlnudsw5000m02jm2mowfs71
 slug: my-rust-learning-journey-from-basics-to-traits-and-generics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1771165128924/ef00c9a7-ea21-452e-b21f-22dfd45f646f.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1771166621774/e2a7e732-cb90-41f0-9900-19a4da299447.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1771165768128/70825694-22bd-4982-b087-52e80cedc072.png
 tags: learning, rust, learn, learn-to-code, web3, learning-in-public, rust-solana-web3, rust-lang, rustseries, rust-programming
 
